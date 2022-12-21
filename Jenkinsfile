@@ -23,7 +23,7 @@ pipeline {
                    stage ('start') {
                             
                              steps {
-                                    sh this is 22Q1 branch"
+                                    sh "this is 22Q1 branch"
                                    
                                      }
                                   }
